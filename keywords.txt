@@ -1,0 +1,37 @@
+
+#######################################
+# Syntax Map For DFRobot_Tactile
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_Tactile	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getVersion	KEYWORD2
+getDeviceInfo	KEYWORD2
+setBaudrate	KEYWORD2
+setDevAddr	KEYWORD2
+resetVal	KEYWORD2
+getDatas	KEYWORD2
+setThld	KEYWORD2
+begin	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+sAdcDatas_t LITERAL1
+sVersionInfo_t LITERAL1
+eSampleRate_t LITERAL1
+
+
