@@ -6,7 +6,7 @@
   @author [jiaLi](zhixinliu@dfrobot.com)
   @version V1.0
   @date 2025-08-06
-  @url https://github.com/DFRobot/DFRobot_AI10
+  @url https://github.com/cdjq/DFRobot_Tactile
 '''
 # -*- coding: utf-8 -*
 
