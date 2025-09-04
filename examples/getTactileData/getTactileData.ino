@@ -6,7 +6,7 @@
  * @author [jiali](zhixinliu@dfrobot.com)
  * @version V1.0
  * @date 2025-08-06
- * @url 
+ * @url https://github.com/cdjq/DFRobot_Tactile
  */
 #include "DFRobot_Tactile.h"
 
